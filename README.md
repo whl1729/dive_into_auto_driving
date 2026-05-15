@@ -17,3 +17,9 @@
 - [豆包的回答](./answers/auto_driving_papers_260513_doubao.md)
 - [千问的回答](./answers/auto_driving_papers_260513_qianwen.md)
 - [元宝的回答](./answers/auto_driving_papers_260513_yuanbao.md)
+
+#### 1.3 总结
+
+- [EMMA: End-to-End Multimodal Model for Autonomous Driving](./papers/20260513T041208_paper_emma_end_to_end_multimodal_model.md)
+- [AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](./papers/20260513T042610_paper_autovla.md)
+- [A Survey of World Models for Autonomous Driving](./papers/20260513T043032_paper_world_models_AD_survey.md)
