@@ -23,3 +23,13 @@
 - [EMMA: End-to-End Multimodal Model for Autonomous Driving](./papers/20260513T041208_paper_emma_end_to_end_multimodal_model.md)
 - [AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](./papers/20260513T042610_paper_autovla.md)
 - [A Survey of World Models for Autonomous Driving](./papers/20260513T043032_paper_world_models_AD_survey.md)
+- [Planning-oriented Autonomous Driving](./papers/20260517T164346_paper_UniAD_planning_oriented_autonomous_driving.md)
+- [End-to-end Autonomous Driving: Challenges and Frontiers](./papers/20260517T212954_paper_e2e_autonomous_driving_survey.md)
+- [End to End Learning for Self-Driving Cars](./papers/20260517T213008_paper_DAVE2_end_to_end_self_driving.md)
+- [FSDrive: Advancing Autonomous Driving through Spatio-Temporal CoT with Visual Reasoning](./papers/20260517T213105_paper_FutureSightDrive.md)
+- [SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation](./papers/20260517T213137_paper_SparseDrive.md)
+
+#### 1.4 参考资料
+
+- [Thinklab-SJTU / Awesome-LLM4AD](https://github.com/thinklab-sjtu/awesome-llm4ad)
+- [OpenDriveLab / End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving/tree/main)
