@@ -2,6 +2,23 @@
 
 研究自动驾驶技术的实现原理和最新进展等。
 
+## 2026-05-18
+
+### 2. 国内端到端自动驾驶的解决方案
+
+#### 2.1 问题
+
+请问国内自动驾驶企业（比如地平线、华为、小鹏、理想、小米等）的端到端方案分别是怎样的？
+如果是基于某些论文的成果来开发的，请介绍相关的论文及其链接等。
+
+#### 2.2 回答
+
+- [ChatGPT 的回答](./answers/chinese_e2e_solutions_chatgpt.md)
+- [Gemini 的回答](./answers/auto_driving_papers_260513_gemini.md)
+- [豆包的回答](./answers/auto_driving_papers_260513_doubao.md)
+- [千问的回答](./answers/auto_driving_papers_260513_qianwen.md)
+- [元宝的回答](./answers/auto_driving_papers_260513_yuanbao.md)
+
 ## 2026-05-13
 
 ### 1. 推荐自动驾驶领域的论文

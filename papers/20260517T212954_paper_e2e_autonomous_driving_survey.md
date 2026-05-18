@@ -1,5 +1,5 @@
 ---
-title: End-to-end Autonomous Driving: Challenges and Frontiers
+title: "End-to-end Autonomous Driving: Challenges and Frontiers"
 date: 2026-05-17 Sun 21:29
 identifier: 20260517T212954
 source: https://arxiv.org/abs/2306.16927 (v3, 15 Aug 2024)
